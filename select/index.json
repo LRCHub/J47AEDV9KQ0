@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Till It's Over",
+  "base_artist": "Tristam",
+  "createdAt": "2026-02-28T14:09:02.631889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Ain't Over Till It's Over",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/01_It_Ain't_Over_Till_It's_Over_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Till It's Over",
+      "artist": "Tristam",
+      "has_synced": true,
+      "path": "select/02_Till_It's_Over_Tristam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Till It's Over (Original Mix)",
+      "artist": "Tristam",
+      "has_synced": true,
+      "path": "select/03_Till_It's_Over_(Original_Mix)_Tristam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Ain't Over Till It's Over",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/04_It_Ain't_Over_Till_It's_Over_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's Not Over ('till It's Over)",
+      "artist": "Starship",
+      "has_synced": false,
+      "path": "select/05_It's_Not_Over_('till_It's_Over)_Starship.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Till It’s Over",
+      "artist": "Tristam",
+      "has_synced": true,
+      "path": "select/06_Till_It’s_Over_Tristam.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Ain't Over 'till It's Over",
+      "artist": "Lenny Kravitz",
+      "has_synced": false,
+      "path": "select/07_It_Ain't_Over_'till_It's_Over_Lenny_Kravitz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Ain't Over Till It's Over",
+      "artist": "Kravitz, Lenny",
+      "has_synced": true,
+      "path": "select/08_It_Ain't_Over_Till_It's_Over_Kravitz,_Lenny.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Ain't Over Till It's Over",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/09_It_Ain't_Over_Till_It's_Over_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Thug Till It's Over",
+      "artist": "Cookin Soul feat. Freddie Gibbs",
+      "has_synced": false,
+      "path": "select/10_Thug_Till_It's_Over_Cookin_Soul_feat._Freddie_Gibbs.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Thug Till It's Over",
+      "artist": "Cookin Soul",
+      "has_synced": false,
+      "path": "select/11_Thug_Till_It's_Over_Cookin_Soul.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It Aint Over Till It's Over",
+      "artist": "Lenny Kravitz",
+      "has_synced": true,
+      "path": "select/12_It_Aint_Over_Till_It's_Over_Lenny_Kravitz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It Ain't Over 'Till It's Over",
+      "artist": "Susan Wong",
+      "has_synced": true,
+      "path": "select/13_It_Ain't_Over_'Till_It's_Over_Susan_Wong.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Thug Till It's Over",
+      "artist": "Cookin Soul, Freddie Gibbs",
+      "has_synced": false,
+      "path": "select/14_Thug_Till_It's_Over_Cookin_Soul,_Freddie_Gibbs.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Aint Over Till It's Over",
+      "artist": "Airbourne",
+      "has_synced": false,
+      "path": "select/15_It_Aint_Over_Till_It's_Over_Airbourne.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "My First Reply (Till It's Over)",
+      "artist": "Dom Kennedy",
+      "has_synced": true,
+      "path": "select/16_My_First_Reply_(Till_It's_Over)_Dom_Kennedy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Till It's Over",
+      "artist": "Tristam",
+      "has_synced": false,
+      "path": "select/pl_01_Till_It's_Over_Tristam.txt"
+    }
+  ]
+}
